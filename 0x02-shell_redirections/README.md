@@ -1,1 +1,1 @@
-print a script showing hello world and a new line
+print command that diplays hello world with a newline
